@@ -1,7 +1,7 @@
 {
   "name": "gulp-sass",
   "version": "1.0.0",
-  "description": "Gulp plugin for sass but with 100% more SASS",
+  "description": "Gulp plugin for sass but with 100% more SASS (THIS IS A FORK OF gulp-sass!!!)",
   "main": "index.js",
   "engines": {
     "node": ">=6"
@@ -18,7 +18,7 @@
     "sass",
     "gulp"
   ],
-  "author": "David Manning",
+  "author": "Jaime 'Gondola' Oliveira",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/NgGondolas/gulp-sassy/issues"
