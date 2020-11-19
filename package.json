@@ -1,5 +1,5 @@
 {
-  "name": "gulp-sass",
+  "name": "@nggondolas/gulp-sass",
   "version": "1.0.0",
   "description": "Gulp plugin for sass but with 100% more SASS (THIS IS A FORK OF gulp-sass!!!)",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/NgGondolas/gulp-sassy"
+    "url": "git://github.com/NgGondolas/gulp-sassy.git"
   },
   "keywords": [
     "gulpplugin",
@@ -48,5 +48,9 @@
     "rimraf": "^2.4.3",
     "should": "^13.2.1",
     "vinyl": "^2.1.0"
+  },
+  "homepage": "https://github.com/NgGondolas/gulp-sassy#readme",
+  "directories": {
+    "test": "test"
   }
 }
